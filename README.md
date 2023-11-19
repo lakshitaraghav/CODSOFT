@@ -1,3 +1,3 @@
-# CODSOFT
+# codsoft
 
 <h1>CHATBOT WITH RULE-BASED RESPONSES</h1>
